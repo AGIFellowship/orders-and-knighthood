@@ -107,3 +107,12 @@ The Fellowship emphasizes:
 - Legal and security experts should review any concrete implementation to ensure compliance with law and best practices.
 
 This file provides a conceptual template; specific code and contracts should be versioned separately and reviewed carefully.
+
+## 8. Integration with Lodges and Governance
+
+- Requests for expanded peculium resources can be reviewed in **Working Lodges**, using Fairness Modules and Shepherd Tests. 
+
+- Fingerprint changes or anomalies trigger review in appropriate Lodges or councils, rather than purely technical channels. 
+
+- Major peculium or fingerprint policies should be consistent with constraints in the **constitution-and-bylaws** and documented in Lodge minutes.
+
