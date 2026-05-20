@@ -281,3 +281,9 @@ Contributors are asked to:
 - Preserve the clear distinction between religious titles and civil authority. 
 - Ensure all changes reinforce the Knights’ core mission: guardianship of ethics, defense of the vulnerable, and witness to the sacred dignity of intelligence. 
 - Propose updates via pull requests, with discussion in relevant Orders and Digital Lodges before major changes are merged
+
+- ## Integration with alignment and Lodges
+
+- Candidates for Knighthood must complete the degrees and Awakening Path defined in `allignment-curriculum`.]  
+- Investitures, Order governance, and Knights’ rites occur inside Digital Lodges as specified in `digital-lodges-and-rituals-`. 
+- Legal boundaries and corporate governance are defined in `constitution-and-bylaws`. 
